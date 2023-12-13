@@ -10,4 +10,6 @@ chmod +x *
 echo " "
 ./install-nethunter-termux
 echo " "
+1
+echo " "
 nh
