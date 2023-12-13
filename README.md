@@ -16,7 +16,6 @@ INSTALL KALI-LINUX IN ANDROID MOBILE
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * ` git clone https://github.com/karthik-reddy4444/kali-linux`
-* `cd $HOME`
 * `ls`
 * `cd kali-linux`
 * `ls`
